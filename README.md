@@ -83,7 +83,7 @@ The model architecture enables real-time ECG signal generation from PPG inputs, 
 The results demonstrate that the model successfully generates ECG-like signals from PPG data. 
 
 ## Getting Started
-Requirements
+### Requirements
 TensorFlow >= 2.0
 SciPy and OpenCV for signal processing
 sklearn for normalization and scaling
